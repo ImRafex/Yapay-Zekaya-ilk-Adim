@@ -1,1 +1,1 @@
-# Yapay-Zekaya-lk-Ad-m
+Buradaki kodlar "globalaihub.com" taki "Yapay Zekaya İlk Adım" kursundaki alıştırmalardır.
